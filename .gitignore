@@ -1,0 +1,8 @@
+.idea
+.venv
+db.sqlite3
+core/__pycache__
+core/migrations/__pucache__
+core/templatetags/__pycache__
+clockifyDjango/__pycache__
+.env
